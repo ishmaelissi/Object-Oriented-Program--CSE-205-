@@ -1,7 +1,7 @@
 // Assignment #: 5
-//         Name: Steven Carr
+//         Name: 
 //    StudentID: 
-//      Lecture: MWF 11:50
+//      Lecture: 
 //  Description: Class that is used to create FullTimeEmployee object
 
 import java.io.*;         //to use InputStreamReader and BufferedReader
